@@ -1,1 +1,1 @@
-git init für den Start
+Okay das ist ein sogenannter Test
